@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="250" viewBox="0 0 880 250" role="img" aria-label="Ahmet Burak Özer, Software and Platform Engineer, Cybersecurity">
+<style>
+text{font-family:ui-monospace,SFMono-Regular,"SF Mono",Menlo,Consolas,"Liberation Mono",monospace;font-size:15px;fill:#1f2328}
+.p{fill:#1a7f37;font-weight:600} .acc{fill:#0969da} .mute{fill:#57606a} .name{font-weight:700}
+.title{font-size:12px;fill:#57606a}
+.cur{fill:#1f2328;animation:b 1.1s steps(1) infinite} @keyframes b{50%{opacity:0}}
+</style>
+<rect x="0.5" y="0.5" width="879" height="249" rx="10" fill="#ffffff" stroke="#d0d7de"/>
+<path d="M0.5 10.5a10 10 0 0 1 10-10h859a10 10 0 0 1 10 10v24h-879z" fill="#f6f8fa"/>
+<line x1="0.5" y1="34.5" x2="879.5" y2="34.5" stroke="#d0d7de"/>
+<circle cx="22" cy="17.5" r="5.5" fill="#ff5f57"/><circle cx="40" cy="17.5" r="5.5" fill="#febc2e"/><circle cx="58" cy="17.5" r="5.5" fill="#28c840"/>
+<text x="440" y="22" text-anchor="middle" class="title">brkozer — zsh</text>
+<text x="28" y="70"><tspan class="p">burak@izmir</tspan><tspan class="mute">:~$</tspan> <tspan class="acc">whoami</tspan></text>
+<text x="28" y="94"><tspan class="name">Ahmet Burak Özer</tspan>  <tspan class="mute">·</tspan>  Software &amp; Platform Engineer · Cybersecurity</text>
+<text x="28" y="124"><tspan class="p">burak@izmir</tspan><tspan class="mute">:~$</tspan> <tspan class="acc">cat focus.txt</tspan></text>
+<text x="28" y="148">backend · kubernetes/helm · security integrations · production ops</text>
+<text x="28" y="178"><tspan class="p">burak@izmir</tspan><tspan class="mute">:~$</tspan> <tspan class="acc">history | head -3</tspan></text>
+<text x="28" y="202"><tspan class="mute">2021</tspan> embedded linux  <tspan class="mute">→ 2021</tspan> mobile network ops  <tspan class="mute">→ 2022–</tspan> security platforms</text>
+<text x="28" y="232"><tspan class="p">burak@izmir</tspan><tspan class="mute">:~$</tspan> <tspan class="acc"></tspan><tspan class="cur">▋</tspan></text>
+</svg>
