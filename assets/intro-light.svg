@@ -15,6 +15,6 @@ text{font-family:ui-monospace,SFMono-Regular,"SF Mono",Menlo,Consolas,"Liberatio
 <text x="28" y="124"><tspan class="p">burak@izmir</tspan><tspan class="mute">:~$</tspan> <tspan class="acc">cat focus.txt</tspan></text>
 <text x="28" y="148">backend · kubernetes/helm · security integrations · production ops</text>
 <text x="28" y="178"><tspan class="p">burak@izmir</tspan><tspan class="mute">:~$</tspan> <tspan class="acc">history | head -3</tspan></text>
-<text x="28" y="202"><tspan class="mute">2021</tspan> embedded linux  <tspan class="mute">→ 2021</tspan> mobile network ops  <tspan class="mute">→ 2022–</tspan> security platforms</text>
+<text x="28" y="202"><tspan class="mute">2021</tspan> embedded linux  <tspan class="mute">→</tspan> mobile network ops  <tspan class="mute">→ 2022–</tspan> security platforms</text>
 <text x="28" y="232"><tspan class="p">burak@izmir</tspan><tspan class="mute">:~$</tspan> <tspan class="acc"></tspan><tspan class="cur">▋</tspan></text>
 </svg>
